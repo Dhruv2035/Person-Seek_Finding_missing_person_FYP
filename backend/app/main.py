@@ -35,12 +35,12 @@ app.add_middleware(
         "http://localhost:5173",
         "https://fyp-missing-person.vercel.app",
         "https://fyp-missing-person-gxtvp8uv8-astha76.vercel.app",
+        "https://person-seek-finding-missing-person.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 # Serve uploaded files
 PROJECT_ROOT = Path(__file__).resolve().parents[2]

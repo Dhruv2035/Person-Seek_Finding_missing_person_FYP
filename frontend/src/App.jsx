@@ -1,5 +1,6 @@
-import { useEffect, useState } from "react";
-import axios from "axios";
+const API_URL = "https://person-seek-backend.onrender.com/api";
+const BACKEND_URL = "https://person-seek-backend.onrender.com";
+
 
 const API_URL = "https://personseek-backend-2.onrender.com/api";
 const BACKEND_URL = "https://personseek-backend-2.onrender.com";

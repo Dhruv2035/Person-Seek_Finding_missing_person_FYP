@@ -231,7 +231,7 @@ Make sure the following are installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/tiwariastha/FYP_missing_person.git
+git clone https://github.com/Dhruv2035/Person-Seek_Finding_missing_person_FYP.git
 cd FYP_missing_person
 ```
 
@@ -351,4 +351,4 @@ All AI-generated matches should be reviewed and verified by authorized investiga
 Final-Year Engineering Project
 
 GitHub:
-https://github.com/tiwariastha/FYP_missing_person
+https://github.com/Dhruv2035/Person-Seek_Finding_missing_person_FYP
